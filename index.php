@@ -25,10 +25,10 @@
 		["q"=>"Did you hear about the cheese factory that exploded in France?","a"=>"There was nothing left but de Brie."],
 		["q"=>"Our wedding was so beautiful ","a"=>"Even the cake was in tiers."],
 		["q"=>"Is this pool safe for diving?","a"=>"It deep ends."],
-		["q"=>"Dad, can you put my shoes on?","a"=>"I dont think theyll fit me."],
+		["q"=>"Dad, can you put my shoes on?","a"=>"I don't think theyll fit me."],
 		["q"=>"Can February March?","a"=>"No, but April May"],
 		["q"=>"What lies at the bottom of the ocean and twitches?","a"=>"A nervous wreck."],
-		["q"=>"Im reading a book on the history of glue.","a"=>"I just cant seem to put it down."],
+		["q"=>"I'm reading a book on the history of glue.","a"=>"I just can't seem to put it down."],
 		["q"=>"Dad, can you put the cat out?","a"=>"I didnt know it was on fire."],
 		["q"=>"What did the ocean say to the sailboat?","a"=>"Nothing, it just waved."],
 		["q"=>"What do you get when you cross a snowman with a vampire?","a"=>"Frostbite"]
