@@ -21,7 +21,7 @@
 		["q"=>"Why don't sharks like to eat clowns?","a"=>"Because they taste funny!"],
 		["q"=>"What did the boy cat say to the girl cat?","a"=>"You're Purr-fect!"],
 		["q"=>"What is a frog's favorite outdoor sport?","a"=>"Fly Fishing!"],
-		["q"=>"I hate jokes about German sausages.","a"=>"Theyre the wurst."],
+		["q"=>"I hate jokes about German sausages.","a"=>"They're the wurst."],
 		["q"=>"Did you hear about the cheese factory that exploded in France?","a"=>"There was nothing left but de Brie."],
 		["q"=>"Our wedding was so beautiful ","a"=>"Even the cake was in tiers."],
 		["q"=>"Is this pool safe for diving?","a"=>"It deep ends."],
